@@ -1,8 +1,5 @@
-
 export default function Home() {
   return (
-    <div >
-opa
-    </div>
+    <div className="text-rode-500 text-2x1">opa</div>
   )
 }
